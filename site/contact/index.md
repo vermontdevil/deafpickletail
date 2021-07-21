@@ -9,6 +9,6 @@ eleventyNavigation:
   order: 5
 ---
 
-Simply fill out the form below and we'll gladly ignore it.
+Simply fill out the form below and we will get back to you as soon as we can.
 
 
