@@ -25,9 +25,10 @@
     {% include "components/social-meta.njk" %}
 
     {# include favicon, fonts, etc #}
-    <link rel="icon" type="image/svg+xml" href="{{ site.images.favicon_svg }}">
-    <link rel="icon" type="image/png" href="{{ site.images.favicon }}">
-    <link rel="apple-touch-icon" href="{{ site.images.apple_touch_icon }}" sizes="180x180">
+    <link rel="apple-touch-icon" sizes="180x180" href="/images/favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon/favicon-16x16.png">
+    <link rel="manifest" href="/images/favicon/site.webmanifest">
 </head>
 
 
@@ -40,6 +41,10 @@
         {# include header #}
         {% include "components/header.njk" %}
 
+        {# include video #}
+
+        {# include image #}
+        {% include "components/imageBanner.njk" %}
         {# include content #}
         {{ content | safe }}
 

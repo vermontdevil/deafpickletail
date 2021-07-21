@@ -1,0 +1,10 @@
+{% if imageUrl %}
+    <div class="inner">
+        <div class="p-12 text-center max-w-2xl">
+            <img class="object-contain md:object-scale-down" src="{{ imageUrl }}"" alt="{{ imageAlt }}">    
+        {% if imageCredits %}
+            <div class="imageCredits">{{ imageCredits | safe }}</div>
+        {% endif %}
+        </div>
+    </div>
+{% endif %}

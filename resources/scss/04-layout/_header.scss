@@ -2,6 +2,9 @@
 //==========  Header  ==========//
 
 // logo
+.logo-img {
+    width: 15% !important;
+}
 .logo {
     --logo-size: #{get-size('500')};
     font-size: v(logo-size);
