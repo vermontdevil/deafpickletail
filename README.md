@@ -1,1 +1,1 @@
-# Deaf Midwest Pickleball Tournament using Skeleventy 
+# Deaf Midwest Pickleball Tournament
