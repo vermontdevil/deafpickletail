@@ -3,9 +3,9 @@ layout: page
 meta_title: Sponsors
 meta_description: Our wonderful sponsors
 title: Sponsors
-eleventyNavigation:
-  key: Sponsors
-  order: 4
+#eleventyNavigation:
+#  key: Sponsors
+#  order: 4
 ---
 
 ## Our Wonderful Sponsors
