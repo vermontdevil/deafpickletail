@@ -1009,13 +1009,9 @@ a:not([class]):hover {
 .nav .link {
   height: 3.05rem;
   line-height: 3.05rem;
-  text-transform: uppercase;
-  color: #1E4A11;
-  margin: 0 .5rem 0 .5rem;
 }
 .nav .link.active, .nav .link:hover {
-  color: #fff;
-  background-color: #1E4A11;
+  color: #FFC20A;
 }
 .nav .link-get-started {
   border-radius: var(--border-radius);

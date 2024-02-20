@@ -13,7 +13,7 @@ eleventyNavigation:
 
 **Do I have to be a resident in the Midwest to play in this tournament?**<br />Anyone in the USA or a country can participate in this tournament.
 
-**Are the games played outdoor or indoor? Wood floor or Asphalt?**<br />We will play indoor on asphalt courts. There are 10 courts.
+**Are the games played outdoor or indoor? Wood floor or Asphalt?**<br />We will play indoor on asphalt courts, using X-40 balls.
 
 **Why is the participation limited to individuals aged 18 and above?**<br />Due to liability and waiver purposes, the event is set for adults.
 
@@ -33,3 +33,5 @@ eleventyNavigation:
 **Are there food/drinks provided?**<br />The place sells water bottles, Gatorades, and a few protein snacks. It's a good idea to bring your own food and lots of drinks. Feel free to bring lawn chairs, but put them in the spectator area. You can eat whenever you want; the tournament won't pause for lunch.
 
 **Can fans come and cheer?**<br />Yes! Fans must stay in the spectator area at all times.
+
+**Special Note:** The tournament director can make changes as needed!
