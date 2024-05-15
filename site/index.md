@@ -22,7 +22,29 @@ Dates: June 29 - June 30, 2024
 Time: 8:30am (Checkin) - 9:00am - 3pm (tournament play)<br />
 Location: <a href="https://sureshotpickleball.com/" target="_new">SureShot Pickleball</a>
 
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSe7NExJusTypa3KOi2pSFDRjE-VjSsC43Xmb5BX99i_34K4kQ/viewform">Registration is OPEN!</a>
+### 2024 Tournament Registration Updates ###
+
+#### May 14 Announcement ####
+I'm reaching out to keep you informed and be completely transparent with you.
+
+Firstly, I want to express my gratitude for your interest in participating in the Deaf Midwest Pickleball Tournament on June 29th and 30th, 2024, in Naperville, IL.
+
+Secondly, I want to inform you that as of today, May 14th, I've closed the registration for the tournament. This is because I need time to organize the registrations based on payment order. Some players registered but haven't paid yet, while others registered and paid promptly. I'll need to review the timestamps of registration and payments to determine who is officially confirmed to play.
+
+Thirdly, I'm exploring various options, such as placing some players on a waiting list or extending the tournament times to accommodate late registrations, among other possibilities. These decisions are still pending.
+
+Finally, let's remain optimistic for the best outcome, ensuring a win-win situation for all involved. In the meantime, I kindly ask for your patience, understanding, and cooperation.
+
+Thank you,
+June Prusak
+Director of 2024 Deaf Midwest Pickleball Tournament
+
+#### Saturday ####
+<img class="page_img" src="/images/dmpbt-saturday.jpg" alt="Flyer with Deaf Midwest Pickleball Tourmanet logo. Text include all the info about tournament including location, date, time, and types of events (rotating and fixed mixed partners)">
+
+#### Sunday ####
+<img class="page_img" src="/images/dmpbt-sunday.jpg" alt="Flyer with Deaf Midwest Pickleball Tourmanet logo. Text include all the info about tournament including location, date, time, and types of events (rotating and fixed mixed partners)">
+
 
 <p>See the flyer for complete details including the QR code to scan and sign up on your phone. Or click on the link above!</a>
 
