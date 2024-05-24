@@ -45,8 +45,11 @@ Director of 2024 Deaf Midwest Pickleball Tournament
 #### Sunday ####
 <img class="page_img" src="/images/dmpbt-sunday.jpg" alt="Flyer with Deaf Midwest Pickleball Tourmanet logo. Text include all the info about tournament including location, date, time, and types of events (rotating and fixed mixed partners)">
 
+### 2024 Sponsors ###
 
-<p>See the flyer for complete details including the QR code to scan and sign up on your phone. Or click on the link above!</a>
+<img class="page_img" src="/images/dmpbt-sponsors-2024.jpeg" alt="DMPBT Logo. Text: 'Thank you sponsors for your support that lets us dink our way to success. FiveStar Interpreting, Franklin, and Engage. It's a big dill to rally over to their website and see what amazing things they have to offer.'">
+
+<p>Shout out to our sponsors for helping 2024 Deaf Midwest Pickleball Tournament a success. Please patronize their websites and learn what they have to offer!</a>
 
 ### 2024 Tournament Flyer ###
 
