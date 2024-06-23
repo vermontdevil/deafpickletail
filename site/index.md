@@ -23,6 +23,24 @@ Time: 8:30am (Checkin) - 9:00am - 3pm (tournament play)<br />
 Location: <a href="https://sureshotpickleball.com/" target="_new">SureShot Pickleball</a>
 
 ### 2024 Tournament Registration Updates ###
+#### June 22 Announcement ####
+
+* newsletter (from June 8th)
+* Deaf Early Night out (DENO)
+* Friday Practice, optional of course
+
+##### Newsletter #####
+<a href="/images/latest-newsletter.pdf" target="_new">Please download the newsletter.</a> It has the complete information you need to know about the tournament weekend. Pay attention to Scoreholio app as you will need to download and register before the tournament starts!
+
+##### Deaf Early Night Out (DENO) ######
+See image about having a DENO after Saturday doubles event. You are welcome to come!
+
+<img class="page_img" src="/images/deno.jpg" alt="Deaf Early Night Out (DENO) at Rock Bottom Brewery. Saturday June 29th. 28256 Diehl Rd, Warrenville, IL at 4pm. Only 2.4 miles from Sure Shot. Welcome to the following groups: Deaf Midwest Pickleballers, National Association of the Deaf (NAD), and the Deaf Community. Event planned by Deaf Midwest Pickleball. ">
+
+##### Friday Practice ######
+See image about Friday night practice which is option and available for you!
+
+<img class="page_img" src="/images/tgif-night.jpg" alt="Prep Pickleball Practice. Join us for a fun warm-up session before the Deaf Midwest Pickleball Tournament. Let's stretch, practice, and boost our team spirit! June 28, 2024. 5pm to 10pm. Rainbow Falls Park, 204 Rev Morrison Blvd. Elk Grove Village, IL. Outdoor pickleball courts are located inside the hockey rink.">
 
 #### May 14 Announcement ####
 I'm reaching out to keep you informed and be completely transparent with you.
